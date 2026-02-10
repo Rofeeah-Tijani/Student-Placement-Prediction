@@ -94,11 +94,16 @@ Confusion Matrix:
 | **Macro Avg** | 1.00 | 1.00 | 1.00 | 2000 |
 | **Weighted Avg** | 1.00 | 1.00 | 1.00 | 2000 |
 
+-----
+
 Observation:
 
 Only 2 samples misclassified, showing improved robustness while retaining high accuracy.
 
 Random Forest reduces overfitting compared to a single Decision Tree.
+
+
+-----
 
 Conclusion
 
